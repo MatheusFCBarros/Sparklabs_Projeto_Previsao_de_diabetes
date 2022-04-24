@@ -13,8 +13,13 @@ O escopo do projeto foi composto da seguinte maneira:
 
 
 Este é o resultado alcançado pela Squad Spark que foi composta por:
+
 Douglas Lopes - Cientista de Dados
+
 Eduardo Moura - Cientista de Dados
+
 Jacinto Xavier - Scrum Master/Cientista de Dados
+
 Mateus Pereira -  Engenheiro de Dados
+
 Matheus Fellipe - Analista / Cientista de Dados
