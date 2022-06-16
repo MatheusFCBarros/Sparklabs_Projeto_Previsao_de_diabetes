@@ -27,3 +27,7 @@ Matheus Fellipe - Analista / Cientista de Dados
 Recursos utilizados na busca da solução: 
 
 ![solucao](https://github.com/MatheusFCBarros/Sparklabs_Projeto_Previsao_de_diabetes/blob/main/solucao_encontrada.png)
+
+Pagina geral do dashboard
+
+![dashboard](https://github.com/MatheusFCBarros/Sparklabs_Projeto_Previsao_de_diabetes/blob/main/dashboard.png)
