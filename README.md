@@ -1,5 +1,5 @@
-# Sparklabs_Projeto_Previsao_de_diabetes
- Projeto de Data Science realizado em grupo
+# Sparklabs Projeto Previsao de diabetes
+ ## Projeto de Data Science realizado em grupo
 
 Este é um projeto completo de Data Science realizado como um desafio proposto pela Stack Academy.
 
@@ -24,6 +24,6 @@ Mateus Pereira -  Engenheiro de Dados
 
 Matheus Fellipe - Analista / Cientista de Dados
 
-Recursos utilizados na busca da solução 
+Recursos utilizados na busca da solução: 
 
 ![solucao](https://github.com/MatheusFCBarros/Sparklabs_Projeto_Previsao_de_diabetes/blob/main/solucao_encontrada.png)
