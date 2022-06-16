@@ -12,7 +12,7 @@ O escopo do projeto foi composto da seguinte maneira:
 6.	Elaboração de apresentação dos resultados.
 
 
-Este é o resultado alcançado pela Squad Spark que foi composta por:
+A Squad Spark que foi composta por:
 
 Douglas Lopes - Cientista de Dados
 
@@ -23,3 +23,7 @@ Jacinto Xavier - Scrum Master/Cientista de Dados
 Mateus Pereira -  Engenheiro de Dados
 
 Matheus Fellipe - Analista / Cientista de Dados
+
+Recursos utilizados na busca da solução 
+
+![solucao](https://github.com/MatheusFCBarros/Sparklabs_Projeto_Previsao_de_diabetes/blob/main/solucao_encontrada.png)
